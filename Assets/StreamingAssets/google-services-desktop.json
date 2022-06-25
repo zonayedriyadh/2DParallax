@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "524800268835",
+    "firebase_url": "https://dino-water-world-3d.firebaseio.com",
+    "project_id": "dino-water-world-3d",
+    "storage_bucket": "dino-water-world-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524800268835:android:db51f07807f5ba43ac6f96",
+        "android_client_info": {
+          "package_name": "com.fpg.dinowater3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524800268835-mjhfdlfod2heqsejvbbk0antaa0scsbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzgoFq__ihhzgdNubwMPxljY6CO2_1o34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524800268835-mjhfdlfod2heqsejvbbk0antaa0scsbm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

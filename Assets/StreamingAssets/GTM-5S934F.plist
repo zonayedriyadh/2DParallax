@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inapppurchasenew</key>
+	<dict>
+		<key>bucks1</key>
+		<string>Pile of Gems,1.99,30,bucks,1.99,30,6,0</string>
+		<key>bucks2</key>
+		<string>Sack of Gems,4.99,100,bucks,4.99,100,5,1</string>
+		<key>bucks11</key>
+		<string>Pile of Gems,0.99,30,bucks.a,1.99,30,6,0</string>
+		<key>bucks12</key>
+		<string>Sack of Gems,3.99,100,bucks.a,4.99,100,5,1</string>
+	</dict>
+	<key>itiwad</key>
+	<dict>
+		<key>Ad1</key>
+		<string>522379712,308393542618525,DINO,922379712,822379712,com.tappocket.dinozoostar,0,0,0,0,0,0,0,0</string>
+		<key>Ad2</key>
+		<string>807014595,795501800463250,DRAGON,907014595,707014595,com.ziau.magicdragonvillage,0,0,0,0,0,0,0,0</string>
+		<key>Ad3</key>
+		<string>433855887,1528315527390338,MONSTER,933855887,833855887,com.tappocket.monstercity,0,0,0,0,0,0,0,0</string>
+	</dict>
+	<key>fblikelink</key>
+	<dict>
+		<key>opengraph</key>
+		<string>http://www.itiw-webdev.com/iphone/images</string>
+		<key>pagelink</key>
+		<string>www.facebook.com/pages/Dino-Village/626162997474413</string>
+	</dict>
+	<key>pushnotification</key>
+	<dict>
+		<key>pushnotification1</key>
+		<string>800001,12-28-18-30,Merry Christmas,Come back to Magic Dragon Village to check out what surprise is there for Christmas,pn1,0,0,0,0,0,0,0,0</string>
+		<key>pushnotification2</key>
+		<string>800002,12-28-17-16,Test 2,Test 2 tag manager push notification,pn1,0,0,0,0,0,0,0,0</string>
+	</dict>
+	<key>specialInAppOfferPack</key>
+	<dict>
+		<key>specialInAppOffer1</key>
+		<string>Starter Pack,4.99,150-150000-15000-0,special,4.99,100-100000-10000-0,28,1,1-1</string>
+		<key>specialInAppOffer2</key>
+		<string>Starter Pack,4.99,150-150000-15000-0,special,4.99,100-100000-10000-0,28,1,14-0</string>
+	</dict>
+	<key>gamePlay</key>
+	<dict>
+		<key>dragonHealBuck</key>
+		<string>0</string>
+		<key>fightReviveBuck</key>
+		<string>0</string>
+		<key>fightRefillBuck</key>
+		<string>10</string>
+		<key>numberOfFight</key>
+		<string>3</string>
+		<key>fightRefillTime</key>
+		<string>20</string>
+		<key>instantOneBuckTime</key>
+		<string>20</string>
+		<key>todayOfferLevel</key>
+		<string>7</string>
+		<key>appRatingXP</key>
+		<string>5500</string>
+		<key>colosseumTime</key>
+		<string>720</string>
+		<key>conversionRateFoods</key>
+		<string>9</string>
+		<key>conversionRateCoins</key>
+		<string>100</string>
+		<key>fightRewardCoinPercent</key>
+		<string>70</string>
+		<key>fightRewardFoodPercent</key>
+		<string>10</string>
+		<key>lootBonusExtraPercent</key>
+		<string>0,10,20,30</string>
+		<key>conversionOfferPercent</key>
+		<string>50</string>
+		<key>bucksForFightPower3</key>
+		<string>0</string>
+		<key>bucksForFightPower4</key>
+		<string>0</string>
+		<key>videoad</key>
+		<string>2,0,240,2,0</string>
+		<key>blackimageforstore</key>
+		<string>2</string>
+		<key>inappsearchkeywords</key>
+		<string>dino</string>
+		<key>buybucksnode</key>
+		<string>0</string>
+		<key>goalbonusinbucks</key>
+		<string>0</string>
+		<key>themeouterset</key>
+		<string>0</string>
+		<key>dragonpurchase</key>
+		<string>1</string>
+		<key>feedvaluepower</key>
+		<string>1</string>
+		<key>animalPackOfferPercent</key>
+		<string>50</string>
+		<key>isMapServicesEnabled</key>
+		<string>1</string>
+		<key>isLoadFakeMap</key>
+		<string>2</string>
+		<key>isLoadMapTutorial</key>
+		<string>0</string>
+		<key>isSharpStoreImageEnabled</key>
+		<string>0</string>
+	</dict>
+	<key>newUserConfig</key>
+	<dict>
+		<key>newUserCoins</key>
+		<string>1800</string>
+		<key>newUserBucks</key>
+		<string>45</string>
+		<key>newUserFoods</key>
+		<string>250</string>
+		<key>newBreedLabPosition</key>
+		<string>89,105</string>
+		<key>newNurseryPosition</key>
+		<string>93,94</string>
+	</dict>
+	<key>itiwabtesting</key>
+	<dict>
+		<key>specialoffer</key>
+		<string>0</string>
+		<key>buybucksnode</key>
+		<string>0</string>
+		<key>levelnotification</key>
+		<string>0</string>
+	</dict>
+	<key>inappsearch</key>
+	<dict>
+		<key>2018</key>
+		<string>dragonariumPanel-21|2018|0|Corosaurus was around‭ ‬1‭ ‬meter long marine reptile.They used to live in shallow seas of North America.They had Long neck and tail.|0|-nr-</string>
+		<key>2021</key>
+		<string>dragonariumPanel-21|2021|0|Cymbospondylus was a giant animal of the Triassic seas. Attaining lengths of 25 feet or more and weights approaching two or three tons. It probably fed on fish mollusks and any smaller aquatic reptiles. Although Cymbospondylus was very large it was not a threat to other marine reptiles.it was probably a slow swimmer.|Dino-dinosaur-water|-nr-</string>
+		<key>2172</key>
+		<string>dragonariumPanel-21|2172|0|Helicoprion was a shark that lived during the late Permian period about 280 million years ago.Their entire lower jaw is composed of a whorl of teeth which acts as buzzsaw.|0|-nr-</string>
+		<key>2317</key>
+		<string>dragonariumPanel-21|2317|0|Archelon the giant turtle was a well known name in the reptile family. It is the largest turtle known and was around 4 meters long and around 16 feet 4.9 meters wide from flipper to flipper.|0|-nr-</string>
+		<key>2319</key>
+		<string>dragonariumPanel-21|2319|0|Thalassomedon were a group of aquatic reptiles that lived in both marine and freshwater environments. It is thought perhaps they swam slowly below the surface of the water and then used their long necks to position to snap up fish or cephalopods.This reptile was about 40 feet long.|0|-nr-</string>
+		<key>2337</key>
+		<string>dragonariumPanel-21|2337|0|The actual meaning of geosaurus is giant Earth lizard. But it was a large marine reptile.It was a carnivore that spent much of its life out at sea.|0|-nr-</string>
+		<key>2338</key>
+		<string>dragonariumPanel-21|2338|0|Baculites was a genus of extinct cephalopods animals related to the modern squid octopus and nautilus .One notable feature about Baculites is that the males may have been a third to a half the size of the females.|0|-nr-</string>
+		<key>2348</key>
+		<string>dragonariumPanel-21|2348|0|Leviathan was the biggest prehistoric whale that ever lived. It had the longest teeth of any prehistoric animal. Leviathan would have needed to eat hundreds of pounds of food every day.|0|-nr-</string>
+		<key>2357</key>
+		<string>dragonariumPanel-21|2357|0|Orthoceras means straight horn.It can be found in sizes ranging from less than a centimeter to more than 14 feet long. It was the ancestor of Ammonites and squids.|0|-nr-</string>
+		<key>2358</key>
+		<string>dragonariumPanel-21|2358|0|Their entire lower jaw was composed of a whorl of teeth which acted as a buzz-saw.Helicoprion was the strangest looking shark in the history.|0|-nr-</string>
+		<key>2359</key>
+		<string>dragonariumPanel-21|2359|0|The mighty mosasaurus was the ruler of the seas in jurassic period .This huge predator used to hunt down preys even bigger than it s own size.It was the hunter of other hunters like the megalodon.|0|-nr-</string>
+		<key>2375</key>
+		<string>dragonariumPanel-21|2375|0|Pilosaurus the pliocene lizard was a huge predator which was about forty feet long and weighed about ten tons.|0|-nr-</string>
+		<key>2376</key>
+		<string>dragonariumPanel-21|2376|0|Shastasaurus was one of the largest marine reptiles that has yet been found.It had huge jaws like mosasaurus which were used to hunt other marine creatures.|0|-nr-</string>
+		<key>2406</key>
+		<string>dragonariumPanel-21|2406|0|This beautiful yet dangerous predator used to live in deep underwater.|0|-nr-</string>
+		<key>2801</key>
+		<string>dragonariumPanel-21|2801|0|Metriorhynchus was a crocodile like reptile which was very aggressive in nature .It lived alongside creatures such as Hybodus Ophthalmosaurus Leedsichtys and Liopleurodon.|0|-nr-</string>
+		<key>2802</key>
+		<string>dragonariumPanel-21|2802|0|The tail of Ischyodus would have been very thin and underdeveloped in relation to its body just like in the living Chimaera.This meant that Ischyodus could not swim fast to chase after prey and instead hunted for slow swimming or sick and dying fish.|0|-nr-</string>
+		<key>2803</key>
+		<string>dragonariumPanel-21|2803|0|A bizarre creature whose body was dwarfed by its long and thin neck and tail . Elasmosaurus swam using four flippers.It spent all its time in the water often cruising coastal waters for shoals of fish.Elasmosaurus travelled long distances.|0|-nr-</string>
+		<key>2806</key>
+		<string>dragonariumPanel-21|2806|0|Globidens is an extinct genus of mosasaur lizard.Globidens had rounded teeth that had a globe shaped upper portion of the crown that sat upon a slightly narrower base.|0|-nr-</string>
+		<key>2807</key>
+		<string>dragonariumPanel-21|2807|0|Placodus meaning flat toothed was the largest of the placodonts an extinct group of marine reptiles related to turtles.placodonts were predators of benthic shelled invertebrates this negative buoyancy would have been to their advantage.|0|-nr-</string>
+		<key>2808</key>
+		<string>dragonariumPanel-21|2808|0|Sarcosuchus would have eaten anything from fish other crocodilians to even dinosaurs.Its teeth were adapted for grabbing and holding so the massive beast likely snatched its prey from the shore then simply used its superior strength to hold it there.|0|-nr-</string>
+		<key>2809</key>
+		<string>dragonariumPanel-21|2809|0|The name Mauisaurus means Maui Lizard.The Mauisaurus name refers to a god of the Maori people called Maui.it had a slender body and long neck.|0|-nr-</string>
+		<key>2811</key>
+		<string>dragonariumPanel-21|2811|0|The name Trinacromerum means three-tipped femur .The Trinacromerum used flippers that look like wings to fly underwater.|0|-nr-</string>
+		<key>2813</key>
+		<string>dragonariumPanel-21|2813|0|The Dakosaurus was nicknamed Godzilla because of the shape of its head and its large serrated teeth.The name Dakosaurus signifies Tearing Lizard .Unlike the crocodile the Dakosaurus had a fish like tail and paddles instead of limbs.|0|-nr-</string>
+		<key>2814</key>
+		<string>dragonariumPanel-21|2814|0|Endennasaurus was longer and toothless. The rostrum and mandible both tapered to a sharp point.|0|-nr-</string>
+		<key>2815</key>
+		<string>dragonariumPanel-21|2815|0|Pachyrhachis is an extinct genus of snake with well developed hind legs.It is a relatively small snake about 1m long. Pachyrhachis appears to have been an ancient marine snake.|0|-nr-</string>
+		<key>2816</key>
+		<string>dragonariumPanel-21|2816|0|Tanystropheus was depicted as a solitary underwater hunter. It is recognizable by its extremely elongated neck which measured 3 metres long - longer than its body and tail combined.|0|-nr-</string>
+		<key>2817</key>
+		<string>dragonariumPanel-21|2817|0|The Hainosaurus was half the size of a football field. Hainosaurus were slow swimmers and had to use natural cover to catch their prey.|0|-nr-</string>
+		<key>2818</key>
+		<string>dragonariumPanel-21|2818|0|The Shonisaurus was a gigantic marine reptile .This predator almost looked like a cross between a whale and a dolphin .|0|-nr-</string>
+		<key>2819</key>
+		<string>dragonariumPanel-21|2819|0|Leedsichthys was a giant fish that would have dwarfed every other animal in the sea but it was a gentle giant that lived on the tiny shrimps jellyfish and small fish that make up plankton.|0|-nr-</string>
+		<key>2821</key>
+		<string>dragonariumPanel-21|2821|0|Henodus was Carnivorous .Its Length was up to 3 ft 1 m .It was the only placodont known to have inhabited a non-marine environment lived in a brackish possibly freshwater and lagoon.|0|-nr-</string>
+		<key>2822</key>
+		<string>dragonariumPanel-21|2822|0|Gallardosaurus is a genus of pliosaurid plesiosaur from the Caribbean seaway. Its main diet was Fish.|0|-nr-</string>
+		<key>2823</key>
+		<string>dragonariumPanel-21|2823|0|Gyrosteus mirabilis was a large chondrostean fish from the Lower jurassic marine deposits of the UK. Gyrosteus mirabilis was an extinct ray-finned fish that lived during the Jurassic. It was found near Whitby United Kingdom and was about 5 m 17 ft long.|0|-nr-</string>
+		<key>2824</key>
+		<string>dragonariumPanel-21|2824|0|Megalodon was an extinct species of shark during the Cenozoic Era.The megalodon was the largest shark ever to have lived which believed to have reached 50 to 70 feet 15.2 to 21.3 meters long. It was Carnivorous.|0|-nr-</string>
+		<key>2826</key>
+		<string>dragonariumPanel-21|2826|0|Koolasuchus was a gigantic amphibian about the size of a modern day crocodile.Koolasuchus was capable of crawling on land but would have been more at home in water.It was up to 5 metres long.|0|-nr-</string>
+		<key>2827</key>
+		<string>dragonariumPanel-21|2827|0|Anomalocaris look very much like a jellyfish. ‭‬it is also often referred to as a pineapple ring due to its resemblance to a sliced pineapple. It was Carnivorous.|0|-nr-</string>
+		<key>2828</key>
+		<string>dragonariumPanel-21|2828|0|Dapedium was a fish from Triassic through Jurassic Europe.It had an oval to near-circular body. Mainly its Habitat was in Shallow seas of western Europe. Tt was about 4-16 inches long and up to a pound. Its diet was Small crustaceans.|0|-nr-</string>
+		<key>2829</key>
+		<string>dragonariumPanel-21|2829|0|Enchodus is an extinct genus of bony fish.1.5‭ ‬meters long and ‭‬fangs can reach to over six centimetres long on the largest species ‭E.‭ ‬petrosus.‭ ‬Other species smaller as much as just a few centimetres long.|0|-nr-</string>
+		<key>2830</key>
+		<string>dragonariumPanel-21|2830|0|It may have reached up to 3 m in length with a 65 cm skull. It used to be called Buettneria perfecta until very recently 2007 when somebody noticed that the genus name was preoccupied by a cricket. It took then the name of the oldest known generic synonym Koskinonodon.|0|-nr-</string>
+		<key>2831</key>
+		<string>dragonariumPanel-21|2831|0|Guarinisuchus was a dominant predator in its environment and reached a length of 3 m .|0|-nr-</string>
+		<key>2839</key>
+		<string>dragonariumPanel-21|2839|0|The Dolichorhynchops was a short-necked archosaurian that like the many flightless birds today used its paddle like features to sail through the waters.While humans have seven neck vertebrae the Dolichorhynchops had three times as many.|0|-nr-</string>
+		<key>2841</key>
+		<string>dragonariumPanel-21|2841|0|Hypsocormus was a fast-swimming predatory fish about 1 metre 3.3 ft long with a half moon-shaped caudal fin similar to that of a modern mackerel. It had a single dorsal fin elongated pectoral fins and tiny pelvic fins about halfway down the body.|0|-nr-</string>
+		<key>2842</key>
+		<string>dragonariumPanel-21|2842|0|The Leptocleidus is a Crustaceans eating Dinosaur in Jurassic Park Builder. lived in shallow lagoons and likely visited brackish and fresh water systems such as the mouths of large rivers|0|-nr-</string>
+		<key>2844</key>
+		<string>dragonariumPanel-21|2844|0|Thililua is a plesiosaur a type of marine reptile. It was not a dinosaur though it lived during the same period.|0|-nr-</string>
+		<key>2847</key>
+		<string>dragonariumPanel-21|2847|0|Gillicus arcuatus was a relatively small 2-metre long ichthyodectid fish that lived in the Western Interior Seaway in what is now central North America,during the Late Cretaceous.|0|-nr-</string>
+		<key>2854</key>
+		<string>dragonariumPanel-21|2854|0|Basilosaurus means King lizard as it was the top predator of its time.It had to come to surface to breathe by raising the tip of its nose out of water as it did not have blow hole like whales.|0|-nr-</string>
+		<key>2856</key>
+		<string>dragonariumPanel-21|2856|0|Hybodus means Humped tooth because it had two different kinds of teeth and a spike which it used for self-defense.|0|-nr-</string>
+		<key>2857</key>
+		<string>dragonariumPanel-21|2857|0|Styxosaurus was named for the mythological River Styx which is believed to separate the world of living from the Greek underworld.|0|-nr-</string>
+		<key>2858</key>
+		<string>dragonariumPanel-21|2858|0|Platecarpus means flat wrist . With the killing ability and the speed. It was only threat to fish.|0|-nr-</string>
+		<key>2860</key>
+		<string>dragonariumPanel-21|2860|0|Askeptosaurus means stickless lizard because it had a slender built with long neck.|0|-nr-</string>
+		<key>2861</key>
+		<string>dragonariumPanel-21|2861|0|Protosphyraena was a medium-size predatory fish of the Late Cretaceous seas with a long swordlike snout and bladelike teeth positioned to stab fleeing prey.|0|-nr-</string>
+		<key>2862</key>
+		<string>dragonariumPanel-21|2862|0|The Colossal Squid is the largest invertebrate ever recorded.They were the aggressive hunters of large fishes and other squids of prey.|0|-nr-</string>
+		<key>2863</key>
+		<string>dragonariumPanel-21|2863|0|Psephoderma was a turtle like reptile which jad flattened skull and a narrow straight tail. It s mouth was shaped like a beak.|0|-nr-</string>
+		<key>2864</key>
+		<string>dragonariumPanel-21|2864|0|Dunkleosteus the huge sized predator was even bigger than the mossasaurus and was at the top of the food chain.|0|-nr-</string>
+		<key>2865</key>
+		<string>dragonariumPanel-21|2865|0|Ammonites were squid-like creatures that had beak-like jaws inside a ring of tentacles to snatch prey. They could built new shell contantly.|0|-nr-</string>
+		<key>2866</key>
+		<string>dragonariumPanel-21|2866|0|Nothosaurus means Fake lizard. It s upper and lower teeth fit together to trap prey.|0|-nr-</string>
+		<key>2868</key>
+		<string>dragonariumPanel-21|2868|0|Hovasaurus was one of the first diapsid reptiles having two characteristic holes in their skulls. There s proof that it swallowed small stones.|0|-nr-</string>
+		<key>2869</key>
+		<string>dragonariumPanel-21|2869|0|The Hupeh crocodile was known as Hupehsuchus. About 1 meter long and was found in the area of hubei in China.|0|-nr-</string>
+		<key>2870</key>
+		<string>dragonariumPanel-21|2870|0|Ophthalmosaurus means Eye lizard because of its large eyes. It was an ichthyosaur reptile which lived in England during the Jurassic period.|0|-nr-</string>
+		<key>2887</key>
+		<string>dragonariumPanel-21|2887|0|Eonatator was known as dawn swimmer . It also known as a small Mosasaurs. It was about 10 feet long and a few hundred pounds.|0|-nr-</string>
+	</dict>
+	<key>gamePlayEvolve</key>
+	<dict>
+		<key>isAutoEvolveEnabled</key>
+		<string>1</string>
+		<key>isMapServicesEnabled</key>
+		<string>0</string>
+		<key>isLoadMapTutorial</key>
+		<string>0</string>
+		<key>adultLevelVariable</key>
+		<string>1</string>
+		<key>legendaryLevelVariable</key>
+		<string>3</string>
+	</dict>
+	<key>inAppChestDetails</key>
+	<dict>
+		<key>isChestFoodAvailable</key>
+		<string>1</string>
+		<key>isChestCoinAvailable</key>
+		<string>1</string>
+		<key>animalChestOfferPercent</key>
+		<string>60</string>
+	</dict>
+	<key>productAnimationStatus</key>
+	<dict>
+		<key>campaignProductAnimation</key>
+		<string>1</string>
+		<key>campaignProductInAppAnimation</key>
+		<string>1</string>
+	</dict>
+	<key>miniGameGame</key>
+	<dict>
+		<key>miniGameGameType</key>
+		<string>1,4,9</string>
+		<key>miniGameGameTypeStats</key>
+		<string>1,5,0;2,5,1;3,8,1;4,8,1;5,8,1;6,9,1;7,4,0;8,9,1;9,9,0</string>
+	</dict>
+	<key>gamePlayFeedPanel</key>
+	<dict>
+		<key>feedPanelType</key>
+		<string>1</string>
+		<key>isNewFeedPanelUpgradeSingleStep</key>
+		<string>0</string>
+	</dict>
+	<key>gamePlayEvolveAnimation</key>
+	<dict>
+		<key>isEvolveAnimationEnabled</key>
+		<string>0</string>
+	</dict>
+	<key>challengeSettings</key>
+	<dict>
+		<key>disableChallenges</key>
+		<string>0</string>
+		<key>getDaysForChallenge</key>
+		<string>302,0,15,0,0;303,16,35,0,0;603,0,30,0,0</string>
+		<key>getTimesForChallenge</key>
+		<string>701,10-07,11-05,0,0;601,10-19,11-01,0,0</string>
+		<key>challengeEnableLevel</key>
+		<string>6</string>
+	</dict>
+	<key>gamePlayColosseumFight</key>
+	<dict>
+		<key>colosseumFightInstantBucks</key>
+		<string>2</string>
+		<key>colosseumFightMinRefillTime</key>
+		<string>5</string>
+		<key>colosseumFightMaxRefillTime</key>
+		<string>5</string>
+		<key>colosseumFightRefillTimePower</key>
+		<string>50</string>
+	</dict>
+	<key>gamePlayFarm</key>
+	<dict>
+		<key>getGrowFoodType</key>
+		<string>2</string>
+	</dict>
+	<key>gamePlayStoreConverstion</key>
+	<dict>
+		<key>isCoinInappWithGems</key>
+		<string>0</string>
+		<key>isFoodInappWithGems</key>
+		<string>0</string>
+	</dict>
+	<key>nurseryBuySlot</key>
+	<dict>
+		<key>minNuserySlot</key>
+		<string>1</string>
+		<key>maxNuserySlot</key>
+		<string>3</string>
+		<key>isNurseryUnlockEnable</key>
+		<string>1</string>
+		<key>slotBuyInitialValue</key>
+		<string>25</string>
+	</dict>
+	<key>feedGoal</key>
+	<dict>
+		<key>isFeedGoalFeature</key>
+		<string>0</string>
+	</dict>
+	<key>gamePlayAutoPopup</key>
+	<dict>
+		<key>isJigsawPopupEnabled</key>
+		<string>1</string>
+	</dict>
+	<key>iCloudSync</key>
+	<dict>
+		<key>isiCloudSyncEnabled</key>
+		<string>1</string>
+	</dict>
+	<key>inAppSpecialOffers</key>
+	<dict>
+		<key>specialInAppOfferKey</key>
+		<string>special3,</string>
+		<key>shortageInAppOfferKey</key>
+		<string>special1,special4,special5</string>
+	</dict>
+</dict>
+</plist>
